@@ -6,4 +6,4 @@ Features
 ---
 * Simple AI
 * Simple hilly terrain
-* Advanced control system with seperate tracks
+* Advanced control system
